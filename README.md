@@ -1,4 +1,4 @@
-# SDN APP
+# Build network topology in SDN using Mininet and OpenDaylight
 
 ## Start the server
   1. Chạy ODL trên Ubuntu
