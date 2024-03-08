@@ -1,0 +1,41 @@
+#wrapper {
+  display: flex;
+  justify-content: space-around;
+  background-color: #fff;
+  border-radius: 10px;
+  width: 60% !important;
+}
+
+#wrapper p {
+  color: #6c7ae0;
+  font-weight: bold;
+  font-size: 20px;
+}
+#wrapper .child {
+  width: 40%;
+}
+
+#wrapper .child:nth-child(1) {
+  width: 50%;
+}
+table tr td {
+  border: none !important;
+  text-align: left !important;
+}
+table tr td select,
+table tr td input {
+  border-radius: 5px;
+  height: 28px;
+  width: 100%;
+  padding-left: 5px;
+}
+.btn {
+  float: right;
+  width: 60px;
+  margin-top: 20px;
+}
+.route table tr td select {
+  width: 54px;
+  margin-right: 3px;
+  margin-bottom: 3px;
+}
